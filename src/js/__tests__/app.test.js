@@ -1,4 +1,4 @@
-import GameSavingLoader from '../app.js';
+import GameSavingLoader from '../app';
 
 const gameSaveLoad = new GameSavingLoader();
 
